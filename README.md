@@ -1,4 +1,4 @@
-# Crawler for Base URL; only crawl webpages on the base URL
+# URL Crawler
 
 This project is a web crawler designed to scrape and crawl links within a specified base URL. The tool is configured to work on `https://books.toscrape.com/`, a demo website for web scraping practice, ensuring compliance with ethical and permitted scraping.
 
